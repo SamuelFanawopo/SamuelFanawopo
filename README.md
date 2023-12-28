@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A full-stack software engineer, who is passionate about leveraging the latest technologies to create innovative solutions</h3>
 
-- 🔭 I’m currently working on [InvestInquire](https://github.com/SamuelFanawopo/InvestInquire)
-
+- 🔭 I’m currently working on [InvestInquire](https://github.com/SamuelFanawopo/InvestInquire) and [ChatterOrbit](https://github.com/SamuelFanawopo/ChatterOrbit)
+- 🚴‍♀️ I'm also actively learning and contributing to [RedwoodJS](https://github.com/redwoodjs/redwood)
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
 - 📫 How to reach me **sfanawopo[at]gmail.com**
 
 <h3 align="left">Connect with me:</h3>
