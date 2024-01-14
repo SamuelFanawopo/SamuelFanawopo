@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [InvestInquire](https://github.com/SamuelFanawopo/InvestInquire) and [ChatterOrbit](https://github.com/SamuelFanawopo/ChatterOrbit)
    
-- 📋 I’m looking to collaborate on **Open Source Projects**
+- 📋 I’m also looking to collaborate on **Open Source Projects**
 
 - 🌎 Check out my [Portfolio](https://samuelfanawopo.website/) 
 
